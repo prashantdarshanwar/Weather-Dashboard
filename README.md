@@ -1,25 +1,52 @@
- 🌦 Weather Dashboard
+<h1 align="center">🌦 Weather Dashboard</h1>
 
-An interactive **Weather Dashboard** built in Power BI that displays real-time and historical weather data using API integration.  
-This dashboard provides insights into temperature, humidity, wind speed, and weather conditions for any location.
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="Weather Dashboard Preview" width="800"/>
+</p>
 
----
-
- 📌 Features
-- Real-time weather updates using Weather API.
-- Historical trends and comparison charts.
-- City-wise and country-wise filters.
-- Responsive and interactive design.
-- Easy to integrate with other datasets.
+<p align="center">
+  <b>An interactive Power BI dashboard that visualizes real-time & historical weather data with API integration.</b>
+</p>
 
 ---
 
-🛠 Technologies Used
-- Power BI Desktop
-- Weather API (e.g., WeatherAPI.com or OpenWeatherMap)
-- DAX for calculations
-- Power Query for ETL (Extract, Transform, Load)
-- GitHub  for version control
+## 📌 Overview
+The **Weather Dashboard** provides detailed insights into temperature, humidity, wind speed, and other conditions for any location.  
+It combines **real-time API data** with **Power BI’s visualization power** to create a responsive and interactive weather tracking tool.
 
 ---
+
+## ✨ Features
+- 📡 **Live Weather Updates** via API integration.
+- 📈 Historical data trends & comparison charts.
+- 🗺 Location-based filters (city, country).
+- 📱 Responsive & interactive visuals.
+- 🔗 Easy to integrate with other datasets.
+
+---
+
+## 🛠 Technologies Used
+- **Power BI Desktop**
+- **Weather API** (e.g., WeatherAPI.com, OpenWeatherMap)
+- **DAX** (Data Analysis Expressions)
+- **Power Query** (ETL - Extract, Transform, Load)
+- **GitHub** (Version Control)
+
+---
+
+## 📂 Project Structure
+weather-dashboard
+
+**Legend:**  
+📊 **.pbix file** – Main interactive dashboard file  
+📄 **README.md** – This documentation file  
+🖼 **/screenshots/** – Images showing the dashboard preview  
+📁 **/data/** – Optional dataset folder for sample weather data  
+
+---
+
+## 🚀 How to Use
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/prashantdarshanwar/weather-dashboard.git
 
