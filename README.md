@@ -1,7 +1,7 @@
 <h1 align="center">🌦 Weather Dashboard</h1>
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Weather Dashboard Preview" width="800"/>
+  <img src="Screenshot 2025-08-05 102702.png" alt="Weather Dashboard Preview" width="800"/>
 </p>
 
 <p align="center">
